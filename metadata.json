@@ -1,0 +1,8 @@
+{
+  "name": "StayWise - PG & Flat Management",
+  "description": "A comprehensive, renter-centric PG and Flat management platform featuring AI-assisted searches, maintenance tracking, and automated rent management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
